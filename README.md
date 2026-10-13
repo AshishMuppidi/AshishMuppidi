@@ -1,173 +1,187 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,12,12&height=230&section=header&text=Ashish%20Muppidi&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%F0%9F%95%B7%EF%B8%8F%20Your%20Friendly%20Neighborhood%20Software%20Engineer%20%F0%9F%95%B8%EF%B8%8F&descSize=20&descAlignY=60" alt="header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=E23636&center=true&vCenter=true&width=700&lines=Swinging+through+Java+%26+Spring+Boot+%F0%9F%95%B7%EF%B8%8F;Spinning+full-stack+webs+with+React+%F0%9F%95%B8%EF%B8%8F;Catching+bugs+before+they+hit+production+%F0%9F%90%9B;With+great+code+comes+great+responsibility+%F0%9F%92%BB" alt="Typing SVG" />
-  </a>
-</p>
+<img src="./assets/banner.svg" alt="Ashish Muppidi - Your Friendly Neighborhood Developer" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NIT%20Durgapur-B.Tech-0A3D91?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Target-SDE%20Roles-E23636?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Web--Slinging-0A3D91?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<a href="https://github.com/AshishMuppidi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF4D4D&center=true&vCenter=true&width=640&height=40&lines=%F0%9F%95%B7%EF%B8%8F+Swinging+through+code+every+day;%F0%9F%95%B8%EF%B8%8F+Building+things+that+stick;%E2%9A%A1+Spider-sense+tingles+when+there%27s+a+bug;%F0%9F%9A%80+With+great+power+comes+great+responsibility" alt="Typing SVG" />
+</a>
 
----
+<br/>
+
+![Views](https://komarev.com/ghpvc/?username=AshishMuppidi&label=VIEWS&color=D91E18&style=for-the-badge&labelColor=0B0B1E)
+[![Followers](https://img.shields.io/github/followers/AshishMuppidi?style=for-the-badge&logo=github&color=1F6FEB&labelColor=0B0B1E)](https://github.com/AshishMuppidi?tab=followers)
+[![Stars](https://img.shields.io/github/stars/AshishMuppidi?style=for-the-badge&logo=github&color=D91E18&labelColor=0B0B1E)](https://github.com/AshishMuppidi?tab=repositories)
+[![Repos](https://img.shields.io/badge/Repos-Explore-1F6FEB?style=for-the-badge&logo=github&labelColor=0B0B1E)](https://github.com/AshishMuppidi?tab=repositories)
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🕷️ Origin Story
 
-Hi, I'm **Ashish Muppidi** 👋 — an aspiring **Software Engineer** and B.Tech student at **NIT Durgapur**.
+<table>
+<tr>
+<td width="60%">
 
-Instead of a radioactive spider bite, I got bitten by the **backend engineering bug**. Now I spend my days building full-stack apps, designing REST APIs, taming relational databases, and turning ideas into working software.
-
-```java
-public class Ashish implements FriendlyNeighborhoodDeveloper {
-
-    private final String[] superpowers = {"Java", "Spring Boot", "React", "SQL", "C++ (for DSA)"};
-    private String currentMission = "Landing an SDE role 🎯";
-
-    @Override
-    public void onBugDetected(Bug bug) {
-        // 🕷️ Spider-sense tingling...
-        swingIn(bug).debug().fix().writeTests().ship();
-    }
-}
+```js
+const spiderDev = {
+  name: "Ashish Muppidi",
+  alias: "Your Friendly Neighborhood Developer",
+  base: "Durgapur, West Bengal 🇮🇳",
+  webShooters: ["Python", "JavaScript", "React"],
+  currentMission: "Building something awesome 🕸️",
+  learning: ["Add", "your", "skills"],
+  spiderSense: "Tingles near bugs 🐛",
+  funFact: "Add a fun fact here!"
+};
 ```
 
----
+</td>
+<td width="40%" align="center">
 
-## 🕸️ Spider-Sense Tingling (Current Focus)
+### 🎯 Mission Status
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-D91E18?style=for-the-badge&labelColor=0B0B1E)
+![Open](https://img.shields.io/badge/OPEN_TO-COLLABS-1F6FEB?style=for-the-badge&labelColor=0B0B1E)
+![Coffee](https://img.shields.io/badge/POWERED_BY-COFFEE_☕-D91E18?style=for-the-badge&labelColor=0B0B1E)
 
-| 🕷️ Mission | 🔭 What I'm working on |
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
+
+## 🕸️ Web-Shooters &nbsp;*(Tech Arsenal)*
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,html,css,git,github,vscode,linux&perline=11&theme=dark" alt="skills"/>
+</a>
+
+</div>
+
+<details>
+<summary><b>🔴 Suit Up! Click to open the full gadget list</b></summary>
+<br/>
+
+| 🕷️ Category | ⚙️ Gadgets |
 |---|---|
-| 🚀 **Full-Stack Webs** | Building apps with Java, Spring Boot, and React |
-| 🧠 **DSA Training Room** | Practicing problem-solving in C++ |
-| ☕ **Core Java & OOP** | Going deep on fundamentals |
-| 🔐 **Backend Gadgets** | Spring Security & REST API design |
-| 🗄️ **Data Vault** | SQL, database optimization, transactions |
-| ⚡ **Speed Boosters** | Concurrency & caching with Redis |
-| 🐳 **Web-Shooter Upgrades** | Docker, CI/CD & system design basics |
+| **Languages** | `Python` `JavaScript` `TypeScript` |
+| **Frontend** | `React` `HTML5` `CSS3` `Tailwind` |
+| **Backend** | `Node.js` `Express` |
+| **Tools** | `Git` `GitHub` `VS Code` `Linux` |
 
----
+> ✏️ Edit this table to match your real stack.
 
-## 🛠️ Web-Shooter Arsenal (Tech Stack)
+</details>
 
-**🗣️ Languages**
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
-![Java](https://img.shields.io/badge/Java-E23636?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0A3D91?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-E23636?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0A3D91?style=for-the-badge&logo=postgresql&logoColor=white)
+## 📊 Mission Stats
 
-**⚙️ Backend**
+<div align="center">
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-E23636?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-0A3D91?style=for-the-badge&logo=springsecurity&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-E23636?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-0A3D91?style=for-the-badge&logo=hibernate&logoColor=white)
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=AshishMuppidi&show_icons=true&hide_border=true&bg_color=0B0B1E&title_color=FF4D4D&icon_color=1F6FEB&text_color=FFFFFF&ring_color=D91E18&text_bold=false" alt="stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishMuppidi&layout=compact&hide_border=true&bg_color=0B0B1E&title_color=FF4D4D&text_color=FFFFFF" alt="langs"/>
 
-**🎨 Frontend**
+<img src="https://streak-stats.demolab.com?user=AshishMuppidi&hide_border=true&background=0B0B1E&ring=D91E18&fire=FF4D4D&currStreakLabel=FFFFFF&sideLabels=8FA8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="streak"/>
 
-![React](https://img.shields.io/badge/React-E23636?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0A3D91?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-E23636?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0A3D91?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</div>
 
-**🗄️ Databases & Tools**
+<details>
+<summary><b>📈 Click to view the contribution activity graph</b></summary>
+<br/>
 
-![MySQL](https://img.shields.io/badge/MySQL-E23636?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-0A3D91?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E23636?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0A3D91?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-E23636?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0A3D91?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
 
-**☁️ Cloud & Deployment**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshishMuppidi&bg_color=0B0B1E&color=FF4D4D&line=D91E18&point=FFFFFF&area=true&area_color=1F3A93&hide_border=true" width="100%" alt="activity graph"/>
 
-![AWS](https://img.shields.io/badge/AWS-E23636?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0A3D91?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-E23636?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
 
----
+</details>
 
-## 🚀 Mission Files (Featured Projects)
+<details>
+<summary><b>🏆 Click to open the trophy case</b></summary>
+<br/>
 
-### 🛒 Mission #1 — ShopEase · *E-commerce Platform*
-> A full-stack e-commerce app built to explore backend development, API integration, and database-driven design.
+<div align="center">
 
-- 🕸️ Backend APIs + frontend integration
-- 🛍️ Product and shopping workflows
-- 🔐 Authentication and database persistence
+<img src="https://github-profile-trophy.vercel.app/?username=AshishMuppidi&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="trophies"/>
 
-`Java` · `Spring Boot` · `React` · `MySQL`  
-🔗 [**View Repository**](https://github.com/AshishMuppidi)
+</div>
 
----
+</details>
 
-### 🎬 Mission #2 — Movie Booking System
-> A movie-ticket booking app focused on real-world booking workflows. Because nobody wants to fight a villain *and* a double-booked seat.
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
-- 🍿 Movie discovery and booking workflows
-- 🏛️ Theatre, screen, and seat management
-- 💺 Seat availability and booking consistency
+## 🐍 Contribution Snake
 
-`Java` · `Spring Boot` · `React` · `MySQL`  
-🔗 [**View Repository**](https://github.com/AshishMuppidi)
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishMuppidi/AshishMuppidi/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshishMuppidi/AshishMuppidi/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AshishMuppidi/AshishMuppidi/output/github-snake-dark.svg"/>
+</picture>
 
-### 🍳 Mission #3 — PocketChef · *Recipe Application*
-> A full-stack app for food discovery and practical frontend-backend integration.
+</div>
 
-- 🔌 API integration and data handling
-- 🏗️ Full-stack application architecture
-- 👤 User-focused application workflows
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
-`Java` · `Spring Boot` · `React` · `REST APIs`  
-🔗 [**View Repository**](https://github.com/AshishMuppidi)
+## 🔥 Featured Missions
 
----
+<details open>
+<summary><b>🕷️ Mission 01 — Project One</b></summary>
+<br/>
 
-## 📊 Hero Stats
+Short description of what it does and why it matters.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AshishMuppidi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E23636&icon_color=1E6FFF&text_color=FFFFFF&ring_color=E23636" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishMuppidi&layout=compact&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=FFFFFF" alt="Top Languages" />
-</p>
+![Tech](https://img.shields.io/badge/Tech-Stack-D91E18?style=flat-square&labelColor=0B0B1E)
+[![Repo](https://img.shields.io/badge/View-Repo-1F6FEB?style=flat-square&logo=github&labelColor=0B0B1E)](https://github.com/AshishMuppidi)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AshishMuppidi&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakLabel=FFFFFF&sideLabels=1E6FFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA4B2" alt="GitHub Streak" />
-</p>
+</details>
 
----
+<details>
+<summary><b>🕸️ Mission 02 — Project Two</b></summary>
+<br/>
 
-## 📈 My Hero Code (Development Philosophy)
+Short description of what it does and why it matters.
 
-- 🕷️ **Solve real problems** — build things that actually matter
-- 🧹 **Write maintainable code** — future me (and teammates) will say thanks
-- 🔍 **Understand the systems I build** — no magic, only mechanics
-- 🔁 **Keep improving** — consistent practice beats occasional heroics
+![Tech](https://img.shields.io/badge/Tech-Stack-D91E18?style=flat-square&labelColor=0B0B1E)
+[![Repo](https://img.shields.io/badge/View-Repo-1F6FEB?style=flat-square&logo=github&labelColor=0B0B1E)](https://github.com/AshishMuppidi)
 
-> *With great code comes great responsibility.* 💻
+</details>
 
----
+<details>
+<summary><b>⚡ Mission 03 — Project Three</b></summary>
+<br/>
 
-## 🤝 Contact (Signal Me)
+Short description of what it does and why it matters.
 
-<p align="center">
-  <a href="https://github.com/AshishMuppidi"><img src="https://img.shields.io/badge/GitHub-AshishMuppidi-0A3D91?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-E23636?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-0A3D91?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-E23636?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+![Tech](https://img.shields.io/badge/Tech-Stack-D91E18?style=flat-square&labelColor=0B0B1E)
+[![Repo](https://img.shields.io/badge/View-Repo-1F6FEB?style=flat-square&logo=github&labelColor=0B0B1E)](https://github.com/AshishMuppidi)
 
-<p align="center">
-  🕸️ <i>Open to SDE opportunities. If your team needs a friendly neighborhood engineer, swing by!</i> 🕷️
-</p>
+</details>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,12,12&height=120&section=footer" alt="footer" />
-</p>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
+
+## 📡 Signal the Daily Bugle
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B1E)](https://linkedin.com/in/your-username)
+[![Email](https://img.shields.io/badge/Email-D91E18?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B1E)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0B1E)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-D91E18?style=for-the-badge&logo=x&logoColor=white&labelColor=0B0B1E)](https://twitter.com/your-handle)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+
+<br/>
+
+*"Whatever life throws at you, just keep swinging."* 🕸️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1E,50:1F3A93,100:D91E18&height=110&section=footer" width="100%" alt="footer"/>
+
+</div>
