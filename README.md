@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Ashish Muppidi — Your Friendly Neighborhood Developer" width="100%"/>
+<img src="./Blaming%20Spider-Man%20GIF.gif" alt="Ashish Muppidi — Your Friendly Neighborhood Developer" width="100%"/>
 
 <a href="https://github.com/AshishMuppidi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF4D4D&center=true&vCenter=true&width=680&height=42&lines=%F0%9F%95%B8%EF%B8%8F+Full-Stack+Engineer;%F0%9F%95%B7%EF%B8%8F+Backend+Engineer;%E2%9A%A1+Tech+Enthusiast;%F0%9F%95%B8%EF%B8%8F+Debugging+one+bug+at+a+time" alt="Typing SVG"/>
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="web divider"/>
+<hr/>
 
 ## 🕷️ ORIGIN STORY
 
@@ -37,7 +37,7 @@ I'm a developer focused on building practical full-stack applications and learni
 - 🤝 **Open to:** software engineering opportunities and meaningful collaborations
 - ⚡ **Developer motto:** *Stay curious. Keep shipping. Never skip the debugging arc.*
 
-<img src="./assets/divider.svg" width="100%" alt="web divider"/>
+<hr/>
 
 ## 🕸️ WEB-SHOOTERS — TECH ARSENAL
 
@@ -56,7 +56,7 @@ I'm a developer focused on building practical full-stack applications and learni
 | **Engineering** | DSA, OOP, database transactions, concurrency, API design |
 | **Tools & Deployment** | Git, GitHub, Docker, Render, Vercel, AWS fundamentals |
 
-<img src="./assets/divider.svg" width="100%" alt="web divider"/>
+<hr/>
 
 ## 🚀 FEATURED MISSIONS
 
@@ -106,7 +106,7 @@ A collaborative developer project focused on building a platform for coding toge
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="web divider"/>
+<hr/>
 
 ## 🧩 THE TRAINING ARC
 
@@ -155,7 +155,7 @@ A collaborative developer project focused on building a platform for coding toge
 </div>
 </details>
 
-<img src="./assets/divider.svg" width="100%" alt="web divider"/>
+<hr/>
 
 ## 📡 SEND A SIGNAL
 
