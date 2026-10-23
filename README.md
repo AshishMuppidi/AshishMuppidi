@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Blaming%20Spider-Man%20GIF.gif" alt="Ashish Muppidi — Your Friendly Neighborhood Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/AshishMuppidi/AshishMuppidi/main/assets/Blaming%20Spider-Man%20GIF.gif" alt="Ashish Muppidi — Your Friendly Neighborhood Developer" width="100%"/>
 
 <a href="https://github.com/AshishMuppidi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF4D4D&center=true&vCenter=true&width=680&height=42&lines=%F0%9F%95%B8%EF%B8%8F+Full-Stack+Engineer;%F0%9F%95%B7%EF%B8%8F+Backend+Engineer;%E2%9A%A1+Tech+Enthusiast;%F0%9F%95%B8%EF%B8%8F+Debugging+one+bug+at+a+time" alt="Typing SVG"/>
